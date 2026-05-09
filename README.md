@@ -8,8 +8,11 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.4%2B-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit%20Cloud-FF4B4B?style=for-the-badge)](https://rodinaasfour665-ctrl-diabetes-prediction-ml-app-vzslqz.streamlit.app/)
 
 *A futuristic, AI-powered medical dashboard that predicts diabetes risk using machine learning — built with a Dark Glassmorphism UI.*
+
+🔗 **[Try the live app here →](https://rodinaasfour665-ctrl-diabetes-prediction-ml-app-vzslqz.streamlit.app/)**
 
 </div>
 
@@ -24,6 +27,16 @@
 - **💡 Health Tips** — Tabbed nutrition, exercise, and lifestyle guidance to help users act on their results
 - **🔄 Sidebar Navigation** — Clean 3-page layout: Prediction Engine | About & Model | Health Tips
 - **📋 Input Summary** — After prediction, review all entered values against normal medical reference ranges
+
+---
+
+## 🌐 Live Demo
+
+> **The app is deployed and running on Streamlit Cloud — no installation needed!**
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rodinaasfour665-ctrl-diabetes-prediction-ml-app-vzslqz.streamlit.app/)
+
+👉 **[https://rodinaasfour665-ctrl-diabetes-prediction-ml-app-vzslqz.streamlit.app/](https://rodinaasfour665-ctrl-diabetes-prediction-ml-app-vzslqz.streamlit.app/)**
 
 ---
 
@@ -151,6 +164,10 @@ This script covers the full ML pipeline:
 ---
 
 ## 🚀 Deploying to Streamlit Cloud
+
+> ✅ This project is **already live** at **[DiabetesScan AI](https://rodinaasfour665-ctrl-diabetes-prediction-ml-app-vzslqz.streamlit.app/)**
+
+To deploy your own copy:
 
 1. Push your repository to GitHub (make sure `app.py`, `best_model.pkl`, `scaler.pkl`, and `requirements.txt` are all committed)
 2. Go to [share.streamlit.io](https://share.streamlit.io)
